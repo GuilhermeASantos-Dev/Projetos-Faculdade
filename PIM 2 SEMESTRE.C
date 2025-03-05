@@ -191,3 +191,5 @@ int main() {
 
     return 0;
 }
+
+/*Trata-se de um sistema básico para gerenciamento de um hortifruti, onde é possível cadastrar produtos, listar os itens disponíveis, realizar vendas e atualizar informações dos produtos.*/
